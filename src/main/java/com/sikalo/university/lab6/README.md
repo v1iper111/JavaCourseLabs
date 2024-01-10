@@ -22,7 +22,7 @@
    який автоматично бронює найкращі доступні послідовні місця, знайдені методом `findBestAvailable`.
 
    
-   ## [Посилання на тест №6]()
+   ## [Посилання на тест №6](https://github.com/v1iper111/JavaCourseLabs/tree/main/src/test/java/com/sikalo/university/lab6)
 
 
 # Опис роботи
